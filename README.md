@@ -14,6 +14,8 @@ It ensures the required tools are installed, asks for user preferences, and sets
 ## 📥 Installation & Usage
 ### 1️⃣ **Download & Make Executable**
 ```
+git clone https://github.com/astratow/nuxt-starter.git
+cd nuxt-starter
 chmod +x start-nuxt.sh
 ```
 2️⃣ Run the Script

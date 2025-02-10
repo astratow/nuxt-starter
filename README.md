@@ -22,7 +22,7 @@ chmod +x start-nuxt.sh
 ```
 ./start-nuxt.sh
 ```
-🔧 What the Script Does
+## 🔧 What the Script Does
 
 1️⃣ Asks for the project name (default: window-quote-app)
 
@@ -40,7 +40,7 @@ chmod +x start-nuxt.sh
 
 8️⃣ Sets up nuxt.config.ts with Tailwind & Pinia
 
-🚀 Running the Project
+## 🚀 Running the Project
 Once setup is complete, run:
 
 bash
@@ -49,8 +49,9 @@ pnpm run dev  # or npm run dev if chosen
 ```
 This will start a development server on localhost:3000.
 
-🛠️ Troubleshooting
+## 🛠️ Troubleshooting
 pnpm Not Found in Git Bash?
+
 If pnpm is installed but not found in Git Bash, add it to your PATH:
 
 bash

@@ -23,13 +23,21 @@ chmod +x start-nuxt.sh
 ./start-nuxt.sh
 ```
 🔧 What the Script Does
+
 1️⃣ Asks for the project name (default: window-quote-app)
+
 2️⃣ Asks if you want to create the project in the current directory
+
 3️⃣ Checks & installs pnpm if missing
+
 4️⃣ Lets you choose between pnpm or npm
+
 5️⃣ Runs nuxi init to create the Nuxt 3 project
+
 6️⃣ Installs dependencies (Nuxt 3, Tailwind CSS, Pinia)
+
 7️⃣ Configures Tailwind CSS automatically
+
 8️⃣ Sets up nuxt.config.ts with Tailwind & Pinia
 
 🚀 Running the Project

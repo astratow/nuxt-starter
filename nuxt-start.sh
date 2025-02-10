@@ -40,7 +40,7 @@ fi
 
 # Ask for project name
 read -p "Enter project name (leave empty for 'window-quote-app'): " PROJECT_NAME
-PROJECT_NAME=${PROJECT_NAME:-window-quote-app}
+PROJECT_NAME=${PROJECT_NAME:-my-nuxt-app}
 
 # Ask whether to create in the current directory
 read -p "Do you want to create the project in the current directory? (y/n): " CREATE_IN_CURRENT_DIR
